@@ -24,7 +24,7 @@ QuickCart is a modern e-commerce web application built with [Next.js](https://ne
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/quickcart.git
+   git clone https://github.com/BradleyXiX/quickcart.git
    cd quickcart
    ```
 
